@@ -1,0 +1,6 @@
+
+{
+  "name": "Pohjola Care - Finnish Elderly Care Services",
+  "description": "A modern, professional, and compassionate elderly care website for Finland, featuring a Scandinavian design aesthetic and an AI-powered care assistant.",
+  "requestFramePermissions": ["microphone"]
+}
